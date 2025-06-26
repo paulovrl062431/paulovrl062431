@@ -1,9 +1,6 @@
-## README
-
 # Oii! Eu sou o Paulo Victor 👋  
-### Estudante apaixonado por programação e tecnologia!
-
-Atualmente estou cursando o 3º ano do Ensino Médio e estudando desenvolvimento web e linguagens de programação. Sempre buscando aprender mais e evoluir na área de tecnologia.
+### 🎓 Estudante do 3º ano do Ensino Médio, apaixonado por programação, tecnologia e inovação.
+💻 Tenho me dedicado ao estudo de desenvolvimento web e diversas linguagens de programação, sempre em busca de aprender mais, praticar e evoluir constantemente na área de tecnologia.
 
 ---
 
@@ -17,15 +14,11 @@ Atualmente estou cursando o 3º ano do Ensino Médio e estudando desenvolvimento
   <img align="center" alt="PV-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
----
 
 ### 📫 Onde me encontrar:
 <div>
-  <a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/paulovrl16/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/paulovictor1724" target="_blank"><img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:pvrioslima@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulo-victor-915b20271/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
