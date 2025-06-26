@@ -18,6 +18,7 @@
 ### 📫 Onde me encontrar:
 <div>
   <a href="https://www.instagram.com/paulovrl16/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/ytGWhAXv" target="_blank"><img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:pvrioslima@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-victor-915b20271/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
